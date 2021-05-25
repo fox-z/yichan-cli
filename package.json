@@ -6,8 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fox-z/yichan-cli.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fox-z/yichan-cli/issues"
+  },
+  "homepage": "https://github.com/fox-z/yichan-cli#readme",
   "devDependencies": {
     "lerna": "^4.0.0"
   }

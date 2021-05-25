@@ -1,5 +1,6 @@
-.vscode
 node_modules
-.idea
+.DS_Store
 lerna-debug.log
+.vscode
+.idea
 packages/**/node_modules
