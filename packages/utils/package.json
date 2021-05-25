@@ -1,6 +1,6 @@
 {
   "name": "@yichan-cli/utils",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "fox-z <939117551@qq.com>",
   "homepage": "https://github.com/fox-z/yichan-cli/tree/main/packages/utils#readme",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/fox-z/yichan-cli/issues"
   },
-  "gitHead": "06510397742ae7af8c3487121f6b2b5ae86b1e68"
+  "gitHead": "06510397742ae7af8c3487121f6b2b5ae86b1e68",
+  "publishConfig": {
+    "access": "public"
+  }
 }
