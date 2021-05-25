@@ -1,0 +1,5 @@
+.vscode
+node_modules
+.idea
+lerna-debug.log
+packages/**/node_modules
