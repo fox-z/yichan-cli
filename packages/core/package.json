@@ -6,6 +6,9 @@
   "homepage": "https://github.com/fox-z/yichan-cli/tree/main/packages/core#readme",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "yichan-cli": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/fox-z/yichan-cli/issues"
-  }
+  },
+  "gitHead": "06510397742ae7af8c3487121f6b2b5ae86b1e68"
 }
